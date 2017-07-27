@@ -1,0 +1,11 @@
+#letter a {
+	color: blue;
+	background-color: darkgray;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#letters a:hover{
+	color: red;
+}
+
